@@ -1,6 +1,3 @@
-Świetnie, Dariusz — oto pełny listing `README.md` w czystym **Markdown**, zawierający wszystko: opis, konfigurację, użycie, cron, Makefile, logikę działania, licencję i teraz także sekcję `Options` z opisem argumentów CLI.
-
-````markdown
 # 🧹 cleanup_ulog.sh
 
 Modular Bash script for cleaning up structured log directories (`/var/log/ulog/YYYY/MM`) older than a configurable number of months.  
